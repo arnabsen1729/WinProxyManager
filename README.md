@@ -14,7 +14,7 @@ or
 
 2. Now just run WinProxyManager.pyw by double clicking on it
 
-Also you can directly download the exe file and execute it.
+Also you can directly download the exe file from [here](https://github.com/arnabsen1729/WinProxyManager/releases/download/v1.0/WinProxyMan.exe) and execute it.
 
 
 ## Screenshots
