@@ -7,9 +7,12 @@ A GUI based tool (windows users only) to change proxy with just one click.
 If you have python installed then just run the following commands(faster way):
 
 1. To install the dependencies 
-```$ pip install -r requirements.txt```
 
-2. Now just click on the WinProxyManager.pyw by double clicking on it
+```$ pip install winregistry```
+or
+```$ pip -m install winregistry```
+
+2. Now just run WinProxyManager.pyw by double clicking on it
 
 Also you can directly download the exe file and execute it.
 
