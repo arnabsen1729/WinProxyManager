@@ -14,7 +14,7 @@ or
 
 2. Now just run WinProxyManager.pyw by double clicking on it
 
-Also you can directly download the exe file from [here](https://github.com/arnabsen1729/WinProxyManager/releases/download/v1.0/WinProxyMan.exe) and execute it. (But Windows Defender might tag it as a virus, just because it is chaning proxy address smh).If you want to turn off the windows defender [check out this](https://support.microsoft.com/en-in/help/4027187/windows-10-turn-off-antivirus-protection-windows-security)
+Also you can directly download the exe file from [here](https://github.com/arnabsen1729/WinProxyManager/releases/download/v1.0/WinProxyMan.exe) and execute it. (But Windows Defender might tag it as a virus, just because it is chaning proxy address smh).If you want to turn off the windows defender [check out this](https://support.microsoft.com/en-in/help/4027187/windows-10-turn-off-antivirus-protection-windows-security) .
 
 
 ## Screenshots
