@@ -1,4 +1,10 @@
-# WinProxyManager
+<div align="center">
+  <h1> WinProxyManager</h1>
+</div>
+
+![WinProxyManager](https://socialify.git.ci/arnabsen1729/WinProxyManager/image?description=1&forks=1&language=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Light)
+
+## Description
 A GUI based tool (windows users only) to change proxy with just one click. 
 (Especially, for IIESTians some of the common proxy addresses are already loaded, so no need to remember anymore)
 
